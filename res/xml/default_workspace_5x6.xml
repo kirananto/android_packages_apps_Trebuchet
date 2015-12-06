@@ -205,7 +205,7 @@
         launcher:x="5"
         launcher:y="0" >
         <favorite
-            launcher:packageName="com.cyngn.cameranext"
+            launcher:packageName="org.codeaurora.snapcam"
             launcher:className="com.android.camera.CameraLauncher" />
         <favorite
             launcher:packageName="com.android.camera2"
